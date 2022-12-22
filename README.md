@@ -1,4 +1,5 @@
-# FULLSTACK FINAL ASSIGNMENT
+# react-attraction-json
+This is the project with React and Express with attractions json data that I created.
 
 ## Npm
 
