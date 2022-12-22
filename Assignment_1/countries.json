@@ -1,0 +1,104 @@
+{
+  "countires":[
+    {
+    "name": "Spain",
+    "languages":"Spanish",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
+    "capital_city":"Madrid",
+    "tourism_cities": [
+      "Madrid",
+      "Barcelona",
+      "Granada",
+      "Ibiza"
+    ],
+    "population": 47450795
+    },
+    {
+    "name": "France",
+    "languages":"French",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
+    "capital_city":"Paris",
+    "tourism_cities": [
+    "Paris",
+    "Bordeaux",
+    "Nice",
+    "Lyon",
+    "Mont Saint-Michel"
+    ],
+    "population": 67897000
+    },
+    {
+    "name": "Egypt",
+    "languages":"Arabic",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+    "capital_city":"Cairo",
+    "tourism_cities": [
+    "Cairo",
+    "Giza",
+    "Alexandria"
+    ],
+    "population": 107770524
+    },
+    {
+    "name": "Morocco",
+    "languages":["Arabic", "French"],
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+    "capital_city":"Rabat",
+    "tourism_cities": [
+    "Marrakesh",
+    "Casablanca",
+    "Fes"
+    ],
+    "population": 36767655
+    },
+    {
+    "name": "Brazil",
+    "languages":"Portuguese",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+    "capital_city":"Brasília",
+    "tourism_cities": [
+    "Rio de Janeiro",
+    "Sao Paulo",
+    "Brasilia"
+    ],
+    "population": 217240060
+    },
+    {
+    "name": "Canada",
+    "languages": ["English","French"],
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "capital_city":"Ottawa",
+    "tourism_cities": [
+    "Toronto",
+    "Montreal",
+    "Vancouver"
+    ],
+    "population": 3892990
+    },
+    {
+    "name": "China",
+    "languages":"Chinese",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "capital_city":"Beijing",
+    "tourism_cities": [
+    "Shanghai",
+    "Guangzhou",
+    "Beijing",
+    "Cheondu"
+    ],
+    "population": 1410539758
+    },
+    {
+    "name": "Malaysia",
+    "languages":"Malay",
+    "flag_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1280px-Flag_of_Malaysia.svg.png",
+    "capital_city":"Kuala Lumpur",
+    "tourism_cities": [
+    "George Town",
+    "Lankawi",
+    "Kota Kinabalu"
+    ],
+    "population": 3871431
+    }
+  ]
+}

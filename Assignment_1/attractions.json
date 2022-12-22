@@ -1,0 +1,127 @@
+{
+ "attractions": [
+   {
+     "name": "Kota Kinabalu City Mosque",
+     "country":"Malaysia",
+     "affiliation":"Islam",
+     "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KotaKinabalu_Sabah_CityMosque-08.jpg/1280px-KotaKinabalu_Sabah_CityMosque-08.jpg",
+     "year": 2000,
+     "type": "architecture",
+     "key":[
+      "Floating Mosque"
+     ]
+   },
+   {
+    "name": "Christ the Redeemer",
+    "country":"Brazil",
+    "affiliation":"Christianity",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/1024px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "year": 1931,
+    "type": "status",
+    "key":[
+     "New Seven Wonders of the World",
+     "National Historic Heritage",
+     "A symbol of Christianity"
+    ]
+  },
+   {
+    "name": "Majorelle Garden",
+    "country":"Morocco",
+    "affiliation":"Islam",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Le_jardin_des_majorelle_40.JPG/1280px-Le_jardin_des_majorelle_40.JPG",
+    "year": 1923,
+    "type": "museum",
+    "key":
+    ["Yves Saint Laurent Museum",
+    "Berber Museum"
+    ]
+   },
+   {
+    "name": "Sagrada Família",
+    "country":"Spain",
+    "affiliation":"Roman Catholic",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sagrada_Familia_2021.jpg/1024px-Sagrada_Familia_2021.jpg",
+    "year": 2010,
+    "type": "architecture",
+    "key":[
+     "UNESCO World Heritage Site",
+     "Works of Antoni Gaudí",
+     "the largest unfinished Catholic church in the world"
+    ]
+   },
+   {
+    "name": "Alhambra",
+    "country":"Spain",
+    "district": "Granada",
+    "affiliation": "Islam",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "year": 1492,
+    "type": "historic site",
+    "key":[
+     "UNESCO World Heritage Site",
+     "Spanish Renaissance architecture",
+     "One of the most famous monuments of Islamic architecture"
+    ]
+  },
+  {
+    "name": "Great Sphinx of Giza",
+    "country":"Egypt",
+    "affiliation":"Christianity",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Great_Sphinx_of_Giza_May_2015.JPG/1280px-Great_Sphinx_of_Giza_May_2015.JPG",
+    "year": null,
+    "type": "historic site",
+    "key":[
+     "Seven Wonders of the Ancient World",
+     "the oldest known monumental sculpture in Egypt"
+    ]
+  },
+  {
+    "name": "Louvre Museum",
+    "country":"France",
+    "affiliation": "",
+    "attraction_img": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+    "year": 1793,
+    "type": "museum",
+    "key":[
+     "the world's most-visited museum",
+     "A historic landmark"
+    ]
+  },
+  {
+    "name": "Great Wall of China",
+    "country":"China",
+    "affiliation":"",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "year": null,
+    "type": "historic site",
+    "key":[
+     "UNESCO World Heritage Site",
+     "one of the most impressive architectural feats in history"
+    ]
+  },
+  {
+    "name": "Niagara Falls",
+    "country":"Canada",
+    "affiliation":"",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg",
+    "year": null,
+    "type": "nature",
+    "key":[
+     "the largest of the three is Horseshoe Falls",
+     "the highest flow rate in North America"
+    ]
+  },
+  {
+    "name": "Rocky Mountains",
+    "country":"Canada",
+    "affiliation":"",
+    "attraction_img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg",
+    "year": null,
+    "type": "nature",
+    "key":[
+     "The largest mountain system in North America",
+     "Some parks have been a part of the UNESCO World Heritage List"
+    ]
+  } 
+ ]
+}

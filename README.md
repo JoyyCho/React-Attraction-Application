@@ -1,2 +1,9 @@
-# react-attractions-json
-This is react application with attraction json that I created.
+# FULLSTACK FINAL ASSIGNMENT
+
+## Npm
+
+- npm i -g express-generator
+- express .
+- npm install
+- npm: nodemon, dotenv, mongoose, bcrypt, jsonwebtoken, concurrently, cors,
+- client -> npm: axios
